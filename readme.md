@@ -1,5 +1,7 @@
-[Demo](https://xarop.github.io/foundation/demo/)
-[Style Guide](https://xarop.github.io/foundation/demo/styleguide.html)
+# XAROP Template
+
+- [Demo](https://xarop.github.io/foundation/demo/)
+- [Style Guide](https://xarop.github.io/foundation/demo/styleguide.html)
 
 # ZURB Template
 

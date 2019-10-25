@@ -1,7 +1,9 @@
 # XAROP Template
 
-- [Demo](https://xarop.github.io/foundation/build/)
+- [Build](https://xarop.github.io/foundation/build/)
 - [Style Guide](https://xarop.github.io/foundation/build/styleguide.html)
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/865f72ef-993f-4fe3-b84e-3368f6fe10a5/deploy-status)](https://app.netlify.com/sites/xarop-foundation/deploys)
 
 # ZURB Template
 

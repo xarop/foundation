@@ -1,4 +1,4 @@
-[Demo](/demo/)
+[Demo](https://xarop.github.io/foundation/demo/)
 
 # ZURB Template
 
